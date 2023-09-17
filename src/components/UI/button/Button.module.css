@@ -1,0 +1,16 @@
+.btn {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 8px 16px;
+  background: linear-gradient(
+    157.81deg,
+    #def9fa -43.27%,
+    #bef3f5 -21.24%,
+    #9dedf0 12.19%,
+    #7de7eb 29.82%,
+    #5ce1e6 51.94%,
+    #33bbcf 90.29%
+  );
+  border-radius: 10px;
+}

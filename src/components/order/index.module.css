@@ -1,0 +1,25 @@
+.card_img{
+    width: 90px;
+    border-radius: 5px;
+}
+
+.card{
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.card_body{
+    width: 250px;
+}
+
+.btn{
+    width: 55px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 2px 3px 2px 3px rgb(160, 160, 160);
+}
